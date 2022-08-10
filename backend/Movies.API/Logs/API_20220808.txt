@@ -1,0 +1,4 @@
+17:35:38 [INF] HTTP GET /api/values responded 404 in 2.1640 ms
+18:36:14 [INF] HTTP GET /api/values responded 404 in 0.3890 ms
+18:37:50 [INF] HTTP GET /api/movies responded 404 in 0.0340 ms
+18:38:08 [INF] HTTP GET /api/movie responded 200 in 12416.8550 ms

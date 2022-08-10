@@ -1,0 +1,12 @@
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\bin\Debug\net6.0\Movies.Data.deps.json
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\bin\Debug\net6.0\Movies.Data.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\bin\Debug\net6.0\Movies.Data.pdb
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.csproj.AssemblyReference.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.AssemblyInfoInputs.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.AssemblyInfo.cs
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\refint\Movies.Data.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\Movies.Data.pdb
+C:\Users\benny\Downloads\Proj\Movies\Movies.Data\obj\Debug\net6.0\ref\Movies.Data.dll

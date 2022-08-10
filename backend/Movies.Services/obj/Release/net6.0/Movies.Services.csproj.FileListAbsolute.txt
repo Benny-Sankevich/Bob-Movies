@@ -1,0 +1,5 @@
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services\obj\Release\net6.0\Movies.Services.csproj.AssemblyReference.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services\obj\Release\net6.0\Movies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services\obj\Release\net6.0\Movies.Services.AssemblyInfoInputs.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services\obj\Release\net6.0\Movies.Services.AssemblyInfo.cs
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services\obj\Release\net6.0\Movies.Services.csproj.CoreCompileInputs.cache

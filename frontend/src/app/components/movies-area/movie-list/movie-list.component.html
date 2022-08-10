@@ -1,0 +1,33 @@
+<div>
+  <div class="actions">
+    <mat-form-field>
+      <mat-label>Search Movie</mat-label>
+      <input
+        matInput
+        type="search"
+        [(ngModel)]="parameters.searchText"
+        size="30"
+        (keyup)="onSearch()"
+      />
+      <button mat-button matSuffix mat-icon-button color="primary">
+        <mat-icon>search</mat-icon>
+      </button>
+    </mat-form-field>
+    <mat-paginator
+      hidePageSize="true"
+      [pageSize]="pageSize"
+      [length]="totalSize"
+      [pageIndex]="parameters.pageNo"
+      (page)="handlePage($event)"
+    >
+    </mat-paginator>
+  </div>
+  <main>
+    <div *ngIf="movies">
+      <app-movie-card
+        *ngFor="let m of movies"
+        [movieDetails]="m"
+      ></app-movie-card>
+    </div>
+  </main>
+</div>

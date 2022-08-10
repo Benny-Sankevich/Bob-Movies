@@ -1,0 +1,13 @@
+<div class="card" (click)="showMovieDetails()">
+  <img
+    *ngIf="movieDetails.poster != 'N/A'"
+    mat-card-image
+    src="{{ movieDetails.poster }}"
+    alt="{{ movieDetails.title }}"
+  />
+  <div class="container">
+    <h5>
+      <b> {{ movieDetails.title }}</b>
+    </h5>
+  </div>
+</div>

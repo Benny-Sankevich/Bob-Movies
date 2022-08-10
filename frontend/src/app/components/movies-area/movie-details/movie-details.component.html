@@ -1,0 +1,78 @@
+<mat-dialog-content>
+  <button class="button" mat-button mat-dialog-close>
+    <mat-icon>close</mat-icon>
+  </button>
+  <div class="container">
+    <div class="aside">
+      <h5>{{ movie.title }}</h5>
+      <img mat-card-image     *ngIf="movie.poster != 'N/A'"
+      src="{{ movie.poster }}" alt="{{ movie.title }}" />
+    </div>
+    <table class="main">
+      <tr>
+        <th>Rated:</th>
+        <td>{{ movie.rated }}</td>
+      </tr>
+      <tr>
+        <th>Released:</th>
+        <td>{{ movie.released }}</td>
+      </tr>
+      <tr>
+        <th>Year:</th>
+        <td>{{ movie.year }}</td>
+      </tr>
+      <tr>
+        <th>Runtime:</th>
+        <td>{{ movie.runtime }}</td>
+      </tr>
+      <tr>
+        <th>Genre:</th>
+        <td>{{ movie.genre }}</td>
+      </tr>
+      <tr>
+        <th>Director:</th>
+        <td>{{ movie.director }}</td>
+      </tr>
+      <tr>
+        <th>Writer:</th>
+        <td>{{ movie.writer }}</td>
+      </tr>
+      <tr>
+        <th>Actors:</th>
+        <td>{{ movie.actors }}</td>
+      </tr>
+      <tr>
+        <th>Plot:</th>
+        <td>{{ movie.plot }}</td>
+      </tr>
+      <tr>
+        <th>Language:</th>
+        <td>{{ movie.language }}</td>
+      </tr>
+      <tr>
+        <th>Country:</th>
+        <td>{{ movie.country }}</td>
+      </tr>
+      <tr>
+        <th>Awards:</th>
+        <td>{{ movie.awards }}</td>
+      </tr>
+      <tr>
+        <th>Metascore:</th>
+        <td>{{ movie.metascore }}</td>
+      </tr>
+      <tr>
+        <th>Rating:</th>
+        <td>{{ movie.rating }}</td>
+      </tr>
+      <tr>
+        <th>Votes:</th>
+        <td>{{ movie.votes }}</td>
+      </tr>
+      <tr>
+        <th>Box Office:</th>
+        <td>{{ movie.boxOffice }}</td>
+      </tr>
+    </table>
+  </div>
+</mat-dialog-content>

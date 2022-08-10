@@ -1,0 +1,24 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+    overflow: auto;
+    color: black;
+    font-style: arial;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+mat-icon {
+    font-family: "Material Icons" !important;
+}
+
+.custom-dialog-container .mat-dialog-container {
+    margin: 0;
+    padding: 0;
+}

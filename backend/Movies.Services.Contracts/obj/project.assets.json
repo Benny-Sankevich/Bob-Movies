@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Movies.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Movies.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.DTO.dll": {}
+        }
+      },
+      "Movies.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Movies.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.DTO/1.0.0": {
+      "type": "project",
+      "path": "../Movies.DTO/Movies.DTO.csproj",
+      "msbuildProject": "../Movies.DTO/Movies.DTO.csproj"
+    },
+    "Movies.Models/1.0.0": {
+      "type": "project",
+      "path": "../Movies.Models/Movies.Models.csproj",
+      "msbuildProject": "../Movies.Models/Movies.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Movies.DTO >= 1.0.0",
+      "Movies.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\benny\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.Services.Contracts\\Movies.Services.Contracts.csproj",
+      "projectName": "Movies.Services.Contracts",
+      "projectPath": "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.Services.Contracts\\Movies.Services.Contracts.csproj",
+      "packagesPath": "C:\\Users\\benny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.Services.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\benny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.DTO\\Movies.DTO.csproj": {
+              "projectPath": "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.DTO\\Movies.DTO.csproj"
+            },
+            "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.Models\\Movies.Models.csproj": {
+              "projectPath": "C:\\Users\\benny\\Downloads\\Proj\\Movies\\Movies.Models\\Movies.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

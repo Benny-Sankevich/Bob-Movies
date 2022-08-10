@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Movies.Services.Contracts/1.0.0": {
+        "dependencies": {
+          "Movies.DTO": "1.0.0",
+          "Movies.Models": "1.0.0"
+        },
+        "runtime": {
+          "Movies.Services.Contracts.dll": {}
+        }
+      },
+      "Movies.DTO/1.0.0": {
+        "runtime": {
+          "Movies.DTO.dll": {}
+        }
+      },
+      "Movies.Models/1.0.0": {
+        "runtime": {
+          "Movies.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.Services.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

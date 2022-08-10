@@ -1,0 +1,17 @@
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.Services.Contracts.deps.json
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.Services.Contracts.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.Services.Contracts.pdb
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.DTO.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.DTO.pdb
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.csproj.AssemblyReference.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.AssemblyInfoInputs.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.AssemblyInfo.cs
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.csproj.CopyComplete
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\refint\Movies.Services.Contracts.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\Movies.Services.Contracts.pdb
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\obj\Debug\net6.0\ref\Movies.Services.Contracts.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.Models.dll
+C:\Users\benny\Downloads\Proj\Movies\Movies.Services.Contracts\bin\Debug\net6.0\Movies.Models.pdb
